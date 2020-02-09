@@ -1,0 +1,2 @@
+A repository containing a bundle of examples of tiny but useful self-written scripts one can design to solve boring tasks.
+Just for instance, yet one more example how you can scrape your data with Selenium to supply your research with data.
